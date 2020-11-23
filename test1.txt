@@ -1,2 +1,2 @@
-This is a test text file (hi from Nano)
+First line was bad, I changed it!
 This line was created using Visual Code
