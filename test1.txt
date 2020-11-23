@@ -1,0 +1,2 @@
+This is a test text file (hi from Nano)
+This line was created using Visual Code
